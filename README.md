@@ -1,23 +1,28 @@
-# Hey there 👋  
-I'm @apten-fors — a cloud-native engineer building scalable, AI-ready platforms with a touch of VibeOps.
+# Hi 👋  
+I'm @apten-fors — Platform / PaaS engineer focused on cloud-native and AI infrastructure.
 
-## 🧠 What I do
-- Kubernetes infrastructure (ClusterAPI, GPU-aware scheduling, Helm, ArgoCD)
-- LLM orchestration and MLOps
-- Observability (Prometheus, VictoriaMetrics, Grafana)
-- CI/CD pipelines and GitOps workflows
-- Python & Go developer
+I build and operate **Kubernetes-based platforms** that enable teams to run **AI, ML, and high-performance workloads** reliably at scale.
 
-## ⚙️ Tools & Tech
-Kubernetes • Golang • Python • Helmfile • GitLab CI • ArgoCD • OpenStack • Kairos • Envoy • Dragonfly (d7y.io) • MLflow • Grafana stack
+## What I work on
+- Internal **PaaS platforms** on Kubernetes (Cluster API, GitOps, self-service workflows)
+- **GPU-enabled infrastructure** for AI / ML and LLM workloads
+- Platform observability, reliability, and capacity planning
+- CI/CD and infrastructure automation
 
-## 🛰️ Current focus
-- AI infrastructure (LLMOps, serving models with GPU acceleration)  
-- Clean CI/CD and progressive delivery  
-- Building systems that scale *and* vibe  
+## Core technologies
+Kubernetes (K8s) • Cluster API • Helm / Helmfile • ArgoCD  
+GPU infrastructure • NVIDIA tooling • MLflow • vLLM / model serving  
+Prometheus • VictoriaMetrics • Grafana  
+Linux • Python • Go  
+OpenStack • Kairos • Envoy • Dragonfly (d7y)
 
-## 📫 Reach me
-[Telegram](https://t.me/apten_fors)
+## Current focus
+- AI & GPU platform architecture
+- Scaling Kubernetes platforms without increasing operational load
+- Improving developer experience through platform abstractions
+
+## Contact
+Telegram: https://t.me/apten_fors
 
 
 <!---
